@@ -10,7 +10,7 @@
 
 -  C#
 - Python
-- JAVA
+- Java
 
 ### Bases de datos
 
