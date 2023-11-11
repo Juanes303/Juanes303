@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-¡Hola! Soy Juan Juan Esteban Escobar Medina, soy tecnico en programacion de software y actualmente me encientro cursando séptimo semestre de ingeniería informática en Colombia. Siempre he sido bastante curioso con todo el tema de la tecnologia por lo cual me decidi en comenzar mi vida profesional en el mundo de la programación. me gusta mucho aprender cosas nuevas todos los días. Soy autodidacta y me encantan los retos. Además, disfruto de los videojuegos, los autos y el deporte en mis tiempos libres.
+¡Hola! Soy Juan Esteban Escobar Medina, soy técnico en programación de software y actualmente me encuentro cursando octavo semestre de ingeniería informática en Colombia. Siempre he sido bastante curioso con todo el tema de la tecnologia por lo cual me decidi en comenzar mi vida profesional en el mundo de la programación. me gusta mucho aprender cosas nuevas todos los días. Soy autodidacta y me encantan los retos. Además, disfruto de los videojuegos, los autos y el deporte en mis tiempos libres.
 
 ## Tecnologías que utilizo
 
